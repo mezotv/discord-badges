@@ -9,7 +9,7 @@ Discord badges are epic looking achievments to make your profile look cool. They
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- |
 Supports Commands | <img  src="/assets/supportscommands.svg"> | ✅ (Bots ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. |
-HypeSquad Events | <img  src="/assets/hypesquadevents.svg"> | ❌ | User must rep Discord in special events to get it. (Applications currently closed)[https://discord.com/hypesquad]. |
+HypeSquad Events | <img  src="/assets/hypesquadevents.svg"> | ❌ | User must rep Discord in special events to get it. [Applications currently closed](https://discord.com/hypesquad). |
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg"> | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). |
 HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg"> | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). |
 HypeSquad Balance | <img  src="/assets/hypesquadbalance.svg"> | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). |
