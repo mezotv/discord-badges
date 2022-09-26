@@ -19,8 +19,8 @@ Discord Certified Moderator | <img  src="/assets/discordmod.svg" href="https://d
 Early Verified Bot Developer | <img  src="/assets/discordbotdev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" > | ❌ | Owning a verified discord bot before October 7, 2020. |
 Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Having a valid discord nitro or discord nitro classic subscription. |
 Early Supporter | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | If you had a successful transaction on discord before Wednesday, October 10th, 2018, 7:20:00 PM PDT. |
-Discord Bug Hunter (Normal) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Reach the "bug hunter" tier in the Discord Testers program.**  |
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Reach the "bug scholar" tier in the Discord Testers program.**  |
+Discord Bug Hunter (Normal) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Reach the "bug hunter" tier in the Discord Testers program.  |
+Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Reach the "bug scholar" tier in the Discord Testers program. |
 
 \* Being active in the admin community doesn't guarantee badge
 
