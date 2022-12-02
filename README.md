@@ -48,4 +48,5 @@ Some badges changed over time, here is a list of all the changes.
 | --- | --- | --- |
 | Early Verified Bot Developer | Verified Bot Developer | **Early** Verified Bot Developer |
 | Discord Partner | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
-| Moderator Programs Alumni | <img  src="/assets/olddiscordmod.png" style="width: 140px;" > Discord Certified Moderator | <img src="/assets/discordmod.svg"> Moderator Programs Alumni |
+| Moderator Programs Alumni | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" > | <img src="/assets/discordmod.svg"> |
+| Moderator Programs Alumni |Discord Certified Moderator | Moderator Programs Alumni |
