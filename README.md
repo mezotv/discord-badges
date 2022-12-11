@@ -15,15 +15,13 @@ HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg" href="https://disco
 HypeSquad Balance | <img  src="/assets/hypesquadbalance.svg" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). |
 Discord Staff | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (Staff Acc ONLY) | Being a staff member at Discord. |
 Partnered Server Owner | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Owning a server that meets discords partner requirements and got accepted for a partnership. |
-Moderator Programs Alumni | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ✅ | Passing discord [moderator academy](https://discord.com/moderation) and being active in the admin community.* |
+Moderator Programs Alumni | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | This badge can no longer be obtained after December 1st 2022. |
 Early Verified Bot Developer | <img  src="/assets/discordbotdev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" > | ❌ | Owning a verified discord bot before October 7, 2020. |
 Active Developer | <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | ✅ | Own at least 1 active application (app). For your app to be considered active, it will need to have executed any Global Command in the last 30 days.|
 Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Having a valid discord nitro or discord nitro classic subscription. |
 Early Supporter | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | If you had a successful transaction on discord before Wednesday, October 10th, 2018, 7:20:00 PM PDT. |
 Discord Bug Hunter (Normal) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Reach the "bug hunter" tier in the Discord Testers program.**  |
 Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Reach the "bug scholar" tier in the Discord Testers program.**  |
-
-\* Being active in the admin community doesn't guarantee badge
 
 \*\* The testers program is currently only available for a select group of people
 
