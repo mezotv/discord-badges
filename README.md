@@ -9,7 +9,7 @@ Discord badges are epic looking achievments to make your profile look cool. They
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- |
 Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (Bots ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. |
-Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ | 100 active automod rules created |
+Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ (Bots ONLY) | 100 active automod rules created |
 HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | User must rep Discord in special events to get it. [Applications currently closed](https://discord.com/hypesquad). |
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). |
 HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). |
