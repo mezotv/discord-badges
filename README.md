@@ -54,7 +54,7 @@ A collection of unique events that happened on Discord.
 
 | Explanation | Image | 
 | --- | --- |
-| Due to the Moderator Alumni server being closed down Sapphire was one of the only bots to ever optain the **Moderator Programs Alumni** badge. | <img  src="/assets/fame/sapphiremod.png"> |
+| Due to the Moderator Alumni server being closed down Sapphire was one of the only bots to ever obtain the **Moderator Programs Alumni** badge. | <img  src="/assets/fame/sapphiremod.png"> |
 
 ## Badge Change Log
 
