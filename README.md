@@ -8,6 +8,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 - [General Badges](#general-badges)
 - [Nitro Boost Tiers](#nitro-boost-tiers)
+- [Hall of Fame](#hall-of-fame)
 - [Badge Change Log](#badge-change-log)
 
 ## General Badges
