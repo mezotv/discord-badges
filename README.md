@@ -4,6 +4,12 @@ A collection featuring every badge on Discord!
 
 Discord badges are epic-looking achievements to make your profile look cool. They are given out by Discord for various reasons, such as being a nitro booster, being a Discord partner, or being a Discord staff member. This collection features every badge on Discord for both staff/bot accounts and user accounts. This was made by **Dominik#5555**
 
+## Table of Contents
+
+- [General Badges](#general-badges)
+- [Nitro Boost Tiers](#nitro-boost-tiers)
+- [Badge Change Log](#badge-change-log)
+
 ## General Badges
 
 | Title | Badge | Obtainable? | Earned by | Flag |
@@ -16,7 +22,7 @@ HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 128 (2^7) |
 HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 64 (2^6) |
 HypeSquad Balance | <img  src="/assets/hypesquadbalance.svg" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 256 (2^8) |
-Discord Staff | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ (Staff Acc ONLY) | Being a staff member at Discord. | 1 (2^0) |
+Discord Staff | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ | Being a employee member at Discord. Can be hidden by the staff. | 1 (2^0) |
 Partnered Server Owner | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ✅ | Owning a server that meets discords partner requirements and got accepted for a partnership. | 2 (2^1) |
 Moderator Programs Alumni | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | This badge can no longer be obtained after December 1st 2022. | 262144 (2^18) |
 Early Verified Bot Developer | <img  src="/assets/discordbotdev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" > | ❌ | Owning a verified discord bot before October 7, 2020. | 131072 (2^17) |
@@ -40,6 +46,14 @@ Server boosting (1 Year)  | <img  src="/assets/boosts/discordboost6.svg" href="h
 Server boosting (1 Year & 3 Months) | <img  src="/assets/boosts/discordboost7.svg" href="https://discord.com/assets/c7f26927db5e7806790f4e968038630a.svg" > | Boost a discord server for 1 year and 3 months straight. |
 Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Boost a discord server for 1 year and 6 months straight. |
 Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boost a discord server for 2 years straight. |
+
+## Hall of Fame
+
+A collection of unique events that happened on Discord.
+
+| Description | Image | 
+| --- | --- |
+| Due to the Moderator Alumni server being closed down Sapphire was one of the only bots to ever optain the **Moderator Programs Alumni** badge. | <img  src="/assets/fame/sapphiremod.png"> |
 
 ## Badge Change Log
 
