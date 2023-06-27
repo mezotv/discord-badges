@@ -60,9 +60,8 @@ A collection of unique events that happened on Discord.
 
 Some badges changed over time, here is a list of all the changes.
 
-| Badge | Old | New |
-| --- | --- | --- |
-| Early Verified Bot Developer | Verified Bot Developer | **Early** Verified Bot Developer |
-| Discord Partner | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
-| Moderator Programs Alumni | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" > | <img src="/assets/discordmod.svg"> |
-| Moderator Programs Alumni |Discord Certified Moderator | Moderator Programs Alumni |
+| Badge | Before | After | Date Changed |
+| --- | --- | --- | --- |
+| Early Verified Bot Developer | Verified Bot Developer | **Early** Verified Bot Developer | 2020-08-19 |
+| Discord Partner | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  | 2022-05-31 |
+| Moderator Programs Alumni | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" ><br>Discord Certified Moderator | <img src="/assets/discordmod.svg"><br>Moderator Programs Alumn | 2022-12-01 |
