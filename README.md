@@ -53,9 +53,9 @@ Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="h
 
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- | 
-System | <img  src="/assets/special/System.png" /> | ❌ | Optained by discord official system messages. |
-Verified Bot | <img  src="/assets/special/Verified-Bot.png" /> | ✅ | Optained by a verified bot. (75+ Servers) |
-Bot | <img  src="/assets/special/Bot.png" /> | ✅ | Optained by an unverified bot. |
+System | <img  src="/assets/special/System.png" /> | ❌ | Obtained by discord official system messages. |
+Verified Bot | <img  src="/assets/special/Verified-Bot.png" /> | ✅ | Obtained by a verified bot. (75+ Servers) |
+Bot | <img  src="/assets/special/Bot.png" /> | ✅ | Obtained by an unverified bot. |
 Ai | <img  src="/assets/special/Ai.png" /> | ❌ | Only for the Clyde Ai bot. |
 
 
