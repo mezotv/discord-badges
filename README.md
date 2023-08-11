@@ -8,6 +8,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 - [General Badges](#general-badges)
 - [Nitro Boost Tiers](#nitro-boost-tiers)
+- [Username Flairs](#username-flairs)
 - [Hall of Fame](#hall-of-fame)
 - [Badge Change Log](#badge-change-log)
 
@@ -47,6 +48,18 @@ Server boosting (1 Year)  | <img  src="/assets/boosts/discordboost6.svg" href="h
 Server boosting (1 Year & 3 Months) | <img  src="/assets/boosts/discordboost7.svg" href="https://discord.com/assets/c7f26927db5e7806790f4e968038630a.svg" > | Boost a discord server for 1 year and 3 months straight. |
 Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Boost a discord server for 1 year and 6 months straight. |
 Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boost a discord server for 2 years straight. |
+
+# Special Flairs
+
+| Title | Badge | Obtainable? | Earned by |
+| --- | --- | --- | --- | 
+System | <img  src="/assets/special/System.png" /> | ❌ | Optained by discord official system messages. |
+Verified Bot | <img  src="/assets/special/Verified-Bot.png" /> | ✅ | Optained by a verified bot. (75+ Servers) |
+Bot | <img  src="/assets/special/Bot.png" /> | ✅ | Optained by an unverified bot. |
+Ai | <img  src="/assets/special/Ai.png" /> | ❌ | Only for the Clyde Ai bot. |
+
+
+
 
 ## Hall of Fame
 
