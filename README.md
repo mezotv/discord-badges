@@ -8,6 +8,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 - [General Badges](#general-badges)
 - [Nitro Boost Tiers](#nitro-boost-tiers)
+- [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
 - [Hall of Fame](#hall-of-fame)
 - [Badge Change Log](#badge-change-log)
@@ -49,6 +50,16 @@ Server boosting (1 Year & 3 Months) | <img  src="/assets/boosts/discordboost7.sv
 Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Boost a discord server for 1 year and 6 months straight. |
 Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boost a discord server for 2 years straight. |
 
+# Server Badges
+| Title | Badge | Obtainable? | Earned by |
+| --- | --- | --- | --- | 
+Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ❌ | Given to partnered Discord servers (Currently paused) |
+Verified Server | <img  src="/assets/server/Verified.svg" /> | ❌ | Given to verified Discord servers (Currently paused) |
+Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
+Public Server | <img  src="/assets/server/Discoverable.svg" /> | ✅ | Given to servers that are part of discovery. |
+Community Server (boosted)| <img  src="/assets/server/CommunityBoosted.svg" /> | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
+Community Server | <img  src="/assets/server/Community.svg" /> | ✅ | Given to servers that have community features enabled. |
+
 # Special Flairs
 
 | Title | Badge | Obtainable? | Earned by |
@@ -57,8 +68,6 @@ System | <img  src="/assets/special/System.png" /> | ❌ | Obtained by discord o
 Verified Bot | <img  src="/assets/special/Verified-Bot.png" /> | ✅ | Obtained by a verified bot. (75+ Servers) |
 Bot | <img  src="/assets/special/Bot.png" /> | ✅ | Obtained by an unverified bot. |
 Ai | <img  src="/assets/special/Ai.png" /> | ❌ | Only for the Clyde Ai bot. |
-
-
 
 
 ## Hall of Fame
