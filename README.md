@@ -84,7 +84,7 @@ Some badges changed over time, here is a list of all the changes.
 
 | Badge | Before | After | Date Changed |
 | --- | --- | --- | --- |
-| Discord Partner Programm | --- | Closed down | 2023-10-05 |
+| Discord Partner Program | --- | Closed down | 2023-10-05 |
 | Moderator Programs Alumni | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" ><br>Discord Certified Moderator | <img src="/assets/discordmod.svg"><br>Moderator Programs Alumn | 2022-12-01 |
 | Discord Partner | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  | 2022-05-31 |
 | Early Verified Bot Developer | Verified Bot Developer | **Early** Verified Bot Developer | 2020-08-19 |
