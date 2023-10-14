@@ -33,7 +33,7 @@ Active Developer | <img  src="/assets/activedeveloper.svg" href="https://discord
 Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Having a valid Discord Nitro, Nitro Basic, or Nitro Classic subscription. | (Unknown) |
 Early Supporter | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | If you had a successful transaction on discord before Wednesday, October 10th, 2018, 7:20:00 PM PDT. | 512 (2^9) |
 Discord Bug Hunter (Tier 1) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Is awarded to the most hard-working of those in the Bug Hunter community at "Discord Testers".  | 8 (2^3) |
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Reach the highest hunter level by going above and beyond at "Discord Testers".  | 16384 (2^14) |
+Discord Bug Hunter (Tier 2) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Reach the highest hunter level by going above and beyond at "Discord Testers".  | 16384 (2^14) |
 
 \*\* The testers program is currently only available for a select group of people
 
