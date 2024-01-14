@@ -25,7 +25,7 @@ HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 128 (2^7) |
 HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 64 (2^6) |
 HypeSquad Balance | <img  src="/assets/hypesquadbalance.svg" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 256 (2^8) |
-Discord Staff | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ✅ | Being a employee member at Discord. Can be hidden by the staff. | 1 (2^0) |
+Discord Staff | <img  src="/assets/discordstaff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" > | ⏸️ | Being a employee member at Discord. Can be hidden by the staff. | 1 (2^0) |
 Partnered Server Owner | <img  src="/assets/discordpartner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" > | ❌ | Owning a server that meets discords partner requirements and got accepted for a partnership. | 2 (2^1) |
 Moderator Programs Alumni | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | This badge can no longer be obtained after December 1st 2022. | 262144 (2^18) |
 Early Verified Bot Developer | <img  src="/assets/discordbotdev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" > | ❌ | Owning a verified discord bot before August 19, 2020. | 131072 (2^17) |
@@ -53,7 +53,7 @@ Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="h
 # Server Badges
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- | 
-Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ❌ | Given to partnered Discord servers  |
+Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ⏸️ | Given to partnered Discord servers  |
 Verified Server | <img  src="/assets/server/Verified.svg" /> | ⏸️ | Given to verified Discord servers (Currently paused) |
 Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
 Public Server | <img  src="/assets/server/Discoverable.svg" /> | ✅ | Given to servers that are part of discovery. |
