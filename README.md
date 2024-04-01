@@ -17,7 +17,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 | Title | Badge | Obtainable? | Earned by | Flag |
 | --- | --- | --- | --- | --- |
-A clown, for a limited time | <img  src="/assets/special/discordlootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" > | ✅ | Unlock all Lootbox rewards during the Discord April Fools event | (Unknown) |
+A clown, for a limited time | <img  src="/assets/special/discordlootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" > | ✅ | Unlock all Lootbox rewards during the Discord April Fools event and select the Avatar Decoration as your main one | (Unknown) |
 Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (Bots ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 8388608 (2^23) |
 Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ (Bots ONLY) | 100 active automod rules created. | 16777216 (2^24) |
 This server has *Bot Name* premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅ (Bots ONLY) | Given to premium bots on the server that bought premium using discords in-app purchase option.  | (Unknown) |
