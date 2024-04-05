@@ -60,15 +60,19 @@ Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> 
 Public Server | <img  src="/assets/server/Discoverable.svg" /> | ✅ | Given to servers that are part of discovery. |
 Community Server (boosted)| <img  src="/assets/server/CommunityBoosted.svg" /> | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
 Community Server | <img  src="/assets/server/Community.svg" /> | ✅ | Given to servers that have community features enabled. |
+Server Owner| <img  src="/assets/server/Crown.svg" /> | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
+I'm new here, say hi!| <img  src="/assets/server/NewHere.svg" /> | ✅ | Given to servers that have community features enabled. |
 
 # Special Flairs
 
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- | 
-System | <img  src="/assets/special/System.png" /> | ❌ | Obtained by discord official system messages. |
-Verified Bot | <img  src="/assets/special/Verified-Bot.png" /> | ✅ | Obtained by a verified bot. (75+ Servers) |
-Bot | <img  src="/assets/special/Bot.png" /> | ✅ | Obtained by an unverified bot. |
-Ai | <img  src="/assets/special/Ai.png" /> | ❌ | Only for the Clyde Ai bot. |
+System | <img  src="/assets/special/System.svg" /> | ❌ | Reserved for discord official system or automod messages. |
+Server | <img  src="/assets/special/Server.svg" /> | ✅ | Reserved by a "webhook" by following a channel. |
+Verified Bot | <img  src="/assets/special/VerifiedBot.svg" /> | ✅ | Obtained by a verified bot. (Atleast 76 Servers) |
+Bot | <img  src="/assets/special/Bot.svg" /> | ✅ | Obtained by an unverified bot. |
+Beta | <img  src="/assets/special/Beta.svg" /> | ❌ | Reserved for in beta features (Also off center). |
+Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Only for the Clyde Ai bot. |
 
 
 ## Hall of Fame
