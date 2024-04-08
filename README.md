@@ -60,8 +60,8 @@ Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> 
 Public Server | <img  src="/assets/server/Discoverable.svg" /> | ✅ | Given to servers that are part of discovery. |
 Community Server (boosted)| <img  src="/assets/server/CommunityBoosted.svg" /> | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
 Community Server | <img  src="/assets/server/Community.svg" /> | ✅ | Given to servers that have community features enabled. |
-Server Owner| <img  src="/assets/server/Crown.svg" /> | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
-I'm new here, say hi!| <img  src="/assets/server/NewHere.svg" /> | ✅ | Given to servers that have community features enabled. |
+Server Owner| <img  src="/assets/server/Crown.svg" /> | ✅ | Giving to the owner upon creating the server. Can be removed by giving admin to a hoisted role. |
+I'm new here, say hi!| <img  src="/assets/server/NewHere.svg" /> | ✅ | Given to new members on a community enabled server. The badge stays next to your username for a week after joining. |
 
 # Special Flairs
 
