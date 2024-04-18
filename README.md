@@ -18,10 +18,10 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Title | Badge | Obtainable? | Earned by | Flag |
 | --- | --- | --- | --- | --- |
 A clown, for a limited time | <img  src="/assets/special/discordlootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" > | ❌ | Unlock all Lootbox rewards during the Discord April Fools event and select the avatar decoration as your main decoration | (Unknown) |
-Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (Bots ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 8388608 (2^23) |
-Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ (Bots ONLY) | 100 active automod rules created. | 16777216 (2^24) |
-This server has *Bot Name* premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅ (Bots ONLY) | Given to premium bots on the server that bought premium using discords in-app purchase option.  | (Unknown) |
-Originaly known as | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" > | ✅ | Given to people when they change to the new username system (Can be hidden) | (Unknown) |
+Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (APPS ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 8388608 (2^23) |
+Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ (APPS ONLY) | 100 active automod rules created. | 16777216 (2^24) |
+This server has *App Name* premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅ (APPS ONLY) | Given to premium APPS on the server that bought premium using discords in-app purchase option.  | (Unknown) |
+Originaly known as | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" > | ❌ | Given to people when they change to the new username system (Can be hidden) | (Unknown) |
 HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | User had to attend/represent discord on events (Closed and wont ever return) | 4 (2^2) |
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 128 (2^7) |
 HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 64 (2^6) |
@@ -81,7 +81,7 @@ A collection of unique events that happened on Discord.
 
 | Explanation | Image | 
 | --- | --- |
-| Due to the Moderator Alumni server being closed down Sapphire and GearBot were one of the only bots to ever obtain the **Moderator Programs Alumni** badge. | <img  src="/assets/fame/sapphiremod.png"> <img  src="/assets/fame/gearmod.png"> |
+| Due to the Moderator Alumni server being closed down Sapphire and GearBot were one of the only APPS to ever obtain the **Moderator Programs Alumni** badge. | <img  src="/assets/fame/sapphiremod.png"> <img  src="/assets/fame/gearmod.png"> |
 
 ## Badge Change Log
 
