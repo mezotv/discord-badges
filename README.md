@@ -7,6 +7,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 ## Table of Contents
 
 - [General Badges](#general-badges)
+- - [Bot Badges](#bot-badges)
 - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
@@ -18,9 +19,6 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Title | Badge | Obtainable? | Earned by | Flag |
 | --- | --- | --- | --- | --- |
 A clown, for a limited time | <img  src="/assets/special/discordlootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" > | ❌ | Unlock all Lootbox rewards during the Discord April Fools event and select the avatar decoration as your main decoration | (Unknown) |
-Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (APPS ONLY) | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 8388608 (2^23) |
-Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ (APPS ONLY) | 100 active automod rules created. | 16777216 (2^24) |
-This server has *App Name* premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅ (APPS ONLY) | Given to premium APPS on the server that bought premium using discords in-app purchase option.  | (Unknown) |
 Originaly known as | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" > | ❌ | When changing to the new username system, it is required that the person has a unique username tag, e.g., TAG#0000 (Can be hidden) | (Unknown) |
 HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | User had to attend/represent discord on events (Closed and wont ever return) | 4 (2^2) |
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | Taking the HypeSquad [Test](https://discord.com/hypesquad). | 128 (2^7) |
@@ -38,6 +36,14 @@ Discord Bug Hunter (Tier 2) | <img  src="/assets/discordbughunter2.svg" href="ht
 
 \*\* The testers program is currently only available for a select group of people
 
+## Bot Badges
+
+| Title | Badge | Obtainable? | Earned by | Flag |
+| --- | --- | --- | --- | --- |
+Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 8388608 (2^23) |
+Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ | 100 active automod rules created. | 16777216 (2^24) |
+This server has *App Name* premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅ | Given to premium APPS on the server that bought premium using discords in-app purchase option.  | (Unknown) |
+
 ## Nitro Boost Tiers
 | Title | Badge | Earned by |
 | --- | --- | --- |
@@ -54,7 +60,7 @@ Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="h
 # Server Badges
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- | 
-Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ⏸️ | Given to partnered Discord servers  |
+Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ❌ | Given to partnered Discord servers  |
 Verified Server | <img  src="/assets/server/Verified.svg" /> | ⏸️ | Given to verified Discord servers (Currently paused) |
 Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
 Public Server | <img  src="/assets/server/Discoverable.svg" /> | ✅ | Given to servers that are part of discovery. |
