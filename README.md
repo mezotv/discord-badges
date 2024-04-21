@@ -73,6 +73,7 @@ Verified Bot | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/asset
 Bot | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" /> | ✅ | Obtained by an unverified app. |
 Beta | <img  src="/assets/special/Beta.svg" /> | ❌ | Reserved for in beta features (Also off center). |
 Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Only for the Clyde Ai bot. |
+OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" /> | ✅ | Given to the original poster of a forum post. |
 
 
 ## Hall of Fame
@@ -89,7 +90,7 @@ Some badges changed over time, here is a list of all the changes.
 
 | Badge | Before | After | Date Changed |
 | --- | --- | --- | --- |
-| Bot Flare | --- | Renamed to "APPS"  | 2024-04-17 |
+| Bot Flare | Named BOTS | Renamed to **APPS**  | 2024-04-17 |
 | Discord Partner Program | --- | Closed down | 2023-10-05 |
 | Moderator Programs Alumni | <img  src="/assets/olddiscordmod.svg" style="width: 140px;" ><br>Discord Certified Moderator | <img src="/assets/discordmod.svg"><br>Moderator Programs Alumni | 2022-12-01 |
 | Discord Partner | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  | 2022-05-31 |
