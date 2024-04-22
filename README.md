@@ -79,7 +79,7 @@ Verified Bot | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/asset
 Bot | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" /> | ✅ | Obtained by an unverified app. |
 Beta | <img  src="/assets/special/Beta.svg" /> | ❌ | Reserved for in beta features (Also off center). |
 Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Only for the Clyde Ai bot. |
-OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" /> | ✅ | Given to the original poster of a forum post. |
+OP (Original Poster) | <img  src="/assets/special/OP.svg" /> | ✅ | Given to the original poster of a forum post. |
 
 
 ## Hall of Fame
