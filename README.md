@@ -18,7 +18,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 | Title | Badge | Obtainable? | Earned by | Flag |
 | --- | --- | --- | --- | --- |
-Completed a Quest | <img  src="/assets/quest.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png" > | ✅ | When completing a quest (This badge is new and things might change, the way of getting it is also not confirmed) | (Unknown) |
+Completed a Quest | <img  src="/assets/quest.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png" > | ✅ | When completing a quest from the gift inventory tab | (Unknown) |
 A clown, for a limited time | <img  src="/assets/special/discordlootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" > | ❌ | Unlock all Lootbox rewards during the Discord April Fools event and select the avatar decoration as your main decoration | (Unknown) |
 Originaly known as | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" > | ❌ | When changing to the new username system, it is required that the person has a unique username tag, e.g., TAG#0000 (Can be hidden) | (Unknown) |
 HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | User had to attend/represent discord on events (Closed and wont ever return) | 4 (2^2) |
