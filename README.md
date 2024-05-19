@@ -11,6 +11,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
+- [Guild Badges](#guild-badges)
 - [Hall of Fame](#hall-of-fame)
 - [Badge Change Log](#badge-change-log)
 
@@ -81,6 +82,20 @@ Bot | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg"
 Beta | <img  src="/assets/special/Beta.svg" /> | ❌ | Reserved for in beta features (Also off center). |
 Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Only for the Clyde Ai bot. |
 OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" /> | ✅ | Given to the original poster of a forum post. |
+
+# Guild Badges
+
+The following badges are included in the new clan tags. Guild owners can customize and assign them to a guild. There is a total of 21!
+
+
+| 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
+| <img src="/assets/guilds/16.svg" /> | <img src="/assets/guilds/15.svg" /> | <img src="/assets/guilds/14.svg" /> | <img src="/assets/guilds/13.svg" /> | <img src="/assets/guilds/12.svg" /> |
+| <img src="/assets/guilds/11.svg" /> | <img src="/assets/guilds/10.svg" /> | <img src="/assets/guilds/9.svg" /> | <img src="/assets/guilds/8.svg" /> | <img src="/assets/guilds/7.svg" /> |
+| <img src="/assets/guilds/6.svg" /> | <img src="/assets/guilds/5.svg" /> | <img src="/assets/guilds/4.svg" /> | <img src="/assets/guilds/3.svg" /> | <img src="/assets/guilds/2.svg" /> |
+| <img src="/assets/guilds/1.svg" /> | | | | |
+
 
 
 ## Hall of Fame
