@@ -11,7 +11,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
-- [Guild Badges](#guild-badges)
+- - [Guild Badges](#guild-badges)
 - [Hall of Fame](#hall-of-fame)
 - [Badge Change Log](#badge-change-log)
 
