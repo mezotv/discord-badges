@@ -62,6 +62,7 @@ Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="h
 # Server Badges
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- | 
+Internal Employee (Staff) | <img  src="/assets/server/Staff.svg" /> | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature |
 Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ❌ | Given to partnered Discord servers  |
 Verified Server | <img  src="/assets/server/Verified.svg" /> | ⏸️ | Given to verified Discord servers (Currently paused) |
 Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
