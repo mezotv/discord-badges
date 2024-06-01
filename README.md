@@ -62,17 +62,17 @@ Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="h
 # Server Badges
 | Title | Badge | Dark theme | Obtainable? | Earned by |
 | --- | --- | --- | --- | --- | 
-Internal Employee (Staff) | <img width="60" height= "60px" src="/assets/server/Staff.svg" /> | | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature |
-Partnered Server | <img width="60" height= "60px" src="/assets/server/Partnered.svg" /> | | ❌ | Given to partnered Discord servers  |
-Verified Server | <img width="60" height= "60px" src="/assets/server/Verified.svg" /> | | ⏸️ | Given to verified Discord servers (Currently paused) |
+Internal Employee (Staff) | <img width="52.7px" height= "60px" src="/assets/server/Staff.svg" /> | | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature |
+Partnered Server | <img width="52.7px" height= "60px" src="/assets/server/Partnered.svg" /> | | ❌ | Given to partnered Discord servers  |
+Verified Server | <img width="52.7px" height= "60px" src="/assets/server/Verified.svg" /> | | ⏸️ | Given to verified Discord servers (Currently paused) |
 Public Server (Boosted) | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableBoosted.svg" /> | | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
-Public Server | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableLight.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableDark.svg" /> | ✅ | Given to servers that are part of discovery. |
+Public Server | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableDark.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableLight.svg" /> | ✅ | Given to servers that are part of discovery. |
 Community Server (boosted) | <img width="52.7px" height= "60px" src="/assets/server/CommunityBoosted.svg" /> |  | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
-Community Server | <img width="52.7px" height= "60px" src="/assets/server/CommunityLight.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/CommunityDark.svg" /> | ✅ | Given to servers that have community features enabled. |
+Community Server | <img width="52.7px" height= "60px" src="/assets/server/CommunityDark.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/CommunityLight.svg" /> | ✅ | Given to servers that have community features enabled. |
 Boosted server Level 0 | <img width="52.7px" height= "60px" src="/assets/server/Boost0.svg" /> | | ✅ | Given to servers that have only 1 boost. |
 Boosted server Level 1 | <img width="52.7px" height= "60px" src="/assets/server/Boost1.svg" /> | | ✅ | Given to servers that have 1 boost level. |
-Boosted server Level 2 | <img width="52.7px" height= "60px" src="/assets/server/Boost2Light.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/Boost2Dark.svg" /> | ✅ | Given to servers that have 2 boost level. |
-Boosted server Level 3 | <img width="52.7px" height= "60px" src="/assets/server/Boost3Light.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/Boost3Dark.svg" /> | ✅ | Given to servers that have 3 boost level. |
+Boosted server Level 2 | <img width="52.7px" height= "60px" src="/assets/server/Boost2Dark.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/Boost2Light.svg" /> | ✅ | Given to servers that have 2 boost level. |
+Boosted server Level 3 | <img width="52.7px" height= "60px" src="/assets/server/Boost3Dark.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/Boost3Light.svg" /> | ✅ | Given to servers that have 3 boost level. |
 Server Owner| <img width="60" height= "52.7px" src="/assets/server/Crown.svg" /> | | ✅ | Giving to the owner upon creating the server. Can be removed by giving admin to a hoisted role. |
 I'm new here, say hi!| <img width="52.7px" height= "60px" src="/assets/server/NewHere.svg" /> | | ✅ | Given to new members on a community enabled server. The badge stays next to your username for a week after joining. |
 
