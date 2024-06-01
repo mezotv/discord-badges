@@ -60,17 +60,21 @@ Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.sv
 Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boost a discord server for 2 years straight. |
 
 # Server Badges
-| Title | Badge | Obtainable? | Earned by |
-| --- | --- | --- | --- | 
-Internal Employee (Staff) | <img  src="/assets/server/Staff.svg" /> | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature |
-Partnered Server | <img  src="/assets/server/Partnered.svg" /> | ❌ | Given to partnered Discord servers  |
-Verified Server | <img  src="/assets/server/Verified.svg" /> | ⏸️ | Given to verified Discord servers (Currently paused) |
-Public Server (Boosted) | <img  src="/assets/server/DiscoverableBoosted.svg" /> | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
-Public Server | <img  src="/assets/server/Discoverable.svg" /> | ✅ | Given to servers that are part of discovery. |
-Community Server (boosted)| <img  src="/assets/server/CommunityBoosted.svg" /> | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
-Community Server | <img  src="/assets/server/Community.svg" /> | ✅ | Given to servers that have community features enabled. |
-Server Owner| <img  src="/assets/server/Crown.svg" /> | ✅ | Giving to the owner upon creating the server. Can be removed by giving admin to a hoisted role. |
-I'm new here, say hi!| <img  src="/assets/server/NewHere.svg" /> | ✅ | Given to new members on a community enabled server. The badge stays next to your username for a week after joining. |
+| Title | Badge | Dark theme | Obtainable? | Earned by |
+| --- | --- | --- | --- | --- | 
+Internal Employee (Staff) | <img width="60" height= "60px" src="/assets/server/Staff.svg" /> | | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature |
+Partnered Server | <img width="60" height= "60px" src="/assets/server/Partnered.svg" /> | | ❌ | Given to partnered Discord servers  |
+Verified Server | <img width="60" height= "60px" src="/assets/server/Verified.svg" /> | | ⏸️ | Given to verified Discord servers (Currently paused) |
+Public Server (Boosted) | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableBoosted.svg" /> | | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
+Public Server | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableLight.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableDark.svg" /> | ✅ | Given to servers that are part of discovery. |
+Community Server (boosted) | <img width="52.7px" height= "60px" src="/assets/server/CommunityBoosted.svg" /> |  | ✅ | Given to servers that have community features enabled and have atleast 1 boost. |
+Community Server | <img width="52.7px" height= "60px" src="/assets/server/CommunityLight.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/CommunityDark.svg" /> | ✅ | Given to servers that have community features enabled. |
+Boosted server Level 0 | <img width="52.7px" height= "60px" src="/assets/server/Boost0.svg" /> | | ✅ | Given to servers that have only 1 boost. |
+Boosted server Level 1 | <img width="52.7px" height= "60px" src="/assets/server/Boost1.svg" /> | | ✅ | Given to servers that have 1 boost level. |
+Boosted server Level 2 | <img width="52.7px" height= "60px" src="/assets/server/Boost2Light.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/Boost2Dark.svg" /> | ✅ | Given to servers that have 2 boost level. |
+Boosted server Level 3 | <img width="52.7px" height= "60px" src="/assets/server/Boost3Light.svg" /> | <img width="52.7px" height= "60px" src="/assets/server/Boost3Dark.svg" /> | ✅ | Given to servers that have 3 boost level. |
+Server Owner| <img width="60" height= "52.7px" src="/assets/server/Crown.svg" /> | | ✅ | Giving to the owner upon creating the server. Can be removed by giving admin to a hoisted role. |
+I'm new here, say hi!| <img width="52.7px" height= "60px" src="/assets/server/NewHere.svg" /> | | ✅ | Given to new members on a community enabled server. The badge stays next to your username for a week after joining. |
 
 # Special Flairs
 
