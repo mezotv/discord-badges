@@ -80,7 +80,7 @@ I'm new here, say hi!| <img width="52.7px" height= "60px" src="/assets/server/Ne
 
 | Title | Badge | Obtainable? | Earned by |
 | --- | --- | --- | --- | 
-System | <img  src="/assets/special/System.svg" /> | ❌ | Reserved for discord official system or automod messages. |
+Official | <img  src="/assets/special/System.svg" /> | ❌ | Reserved for discord official system or automod messages. |
 Server | <img  src="/assets/special/Server.svg" /> | ✅ | Reserved by a "webhook" by following a channel. |
 Verified Bot | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/assets/special/VerifiedApp.svg" />| ✅ | Obtained by a verified app. (Atleast 76 Servers) |
 Bot | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" /> | ✅ | Obtained by an unverified app. |
