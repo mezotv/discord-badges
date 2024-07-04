@@ -62,7 +62,7 @@ Server boosting (2 Years) | <img  src="/assets/boosts/discordboost9.svg" href="h
 # Server Badges
 | Title | Badge | Dark theme | Obtainable? | Earned by |
 | --- | --- | --- | --- | --- | 
-Internal Employee (Staff) | <img width="52.7px" height= "60px" src="/assets/server/Staff.svg" /> | | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature |
+Internal Employee (Staff) | <img width="52.7px" height= "60px" src="/assets/server/Staff.svg" /> | | ❌ (Not for normal users) | Given to servers with the *INTERNAL_EMPLOYEE_ONLY* feature flag |
 Partnered Server | <img width="52.7px" height= "60px" src="/assets/server/Partnered.svg" /> | | ❌ | Given to partnered Discord servers  |
 Verified Server | <img width="52.7px" height= "60px" src="/assets/server/Verified.svg" /> | | ⏸️ | Given to verified Discord servers (Currently paused) |
 Public Server (Boosted) | <img width="52.7px" height= "60px" src="/assets/server/DiscoverableBoosted.svg" /> | | ✅ | Given to servers that are part of discovery and have atleast 1 boost. |
@@ -91,7 +91,7 @@ OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" /> | ✅ |
 
 # Guild Badges
 
-The following badges are included in the new clan tags. Guild owners can customize and assign them to a guild. There is a total of 21!
+The following badges are included in the new clan tags. Guild owners can customize and assign them to their guild. There is a total of 21!
 
 
 | 1 | 2 | 3 | 4 | 5 |
