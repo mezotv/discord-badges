@@ -83,8 +83,8 @@ I'm new here, say hi!| <img width="52.7px" height= "60px" src="/assets/server/Ne
 Official | <img  src="/assets/special/Official.svg" /> | ❌ | Reserved for discord official system or automod messages. (New) |
 System | <img  src="/assets/special/System.svg" /> | ❌ | Reserved for discord system or automod messages. (Old) |
 Server | <img  src="/assets/special/Server.svg" /> | ✅ | Reserved by a "webhook" by following a channel. |
-Verified Bot | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/assets/special/VerifiedApp.svg" />| ✅ | Obtained by a verified app. (Atleast 76 Servers) |
-Bot | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" /> | ✅ | Obtained by an unverified app. |
+Verified Bot/App | <img  src="/assets/special/VerifiedBot.svg" />  <img  src="/assets/special/VerifiedApp.svg" />| ✅ | Obtained by a verified app. |
+Bot/App | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" /> | ✅ | Obtained by an unverified app. |
 Beta | <img  src="/assets/special/Beta.svg" /> | ❌ | Reserved for in beta features (Also off center). |
 Ai | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" /> | ❌ | Only for the Clyde Ai bot. |
 OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" /> | ✅ | Given to the original poster of a forum post. |
