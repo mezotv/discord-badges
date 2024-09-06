@@ -31,7 +31,7 @@ Partnered Server Owner | <img  src="/assets/discordpartner.svg" href="https://di
 Moderator Programs Alumni | <img  src="/assets/discordmod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" > | ❌ | This badge can no longer be obtained after December 1st 2022. | 262144 (2^18) |
 Early Verified Bot Developer | <img  src="/assets/discordbotdev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" > | ❌ | Owning a verified discord bot before August 19, 2020. | 131072 (2^17) |
 Active Developer | <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | ✅ | Own at least 1 active application (app). For your app to be considered active, it will need to have executed any Global Command in the last 30 days.| 4194304 (2^22) |
-Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Having a valid Discord Nitro, Nitro Basic, or Nitro Classic subscription. | (Unknown) |
+Discord Nitro ([MultipleTiers](#nitro-subscription-tiers)) | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Having a valid Discord Nitro, Nitro Basic, or Nitro Classic subscription. | (Unknown) |
 Early Supporter | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | If you had a successful transaction on discord before Wednesday, October 10th, 2018, 7:20:00 PM PDT. | 512 (2^9) |
 Discord Bug Hunter (Tier 1) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Is awarded to the most hard-working of those in the Bug Hunter community at "Discord Testers".  | 8 (2^3) |
 Discord Bug Hunter (Tier 2) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Reach the highest hunter level by going above and beyond at "Discord Testers".  | 16384 (2^14) |
@@ -45,6 +45,19 @@ Discord Bug Hunter (Tier 2) | <img  src="/assets/discordbughunter2.svg" href="ht
 Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 8388608 (2^23) |
 Uses Automod | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg"> | ✅ | 100 active automod rules created. | 16777216 (2^24) |
 This server has *App Name* premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅ | Given to premium APPS on the server that bought premium using discords in-app purchase option.  | (Unknown) |
+
+## Nitro Subscription Tiers
+| Title | Badge | Earned by |
+| --- | --- | --- |
+| Bronze (1 Month)                   | <img src="/assets/subscriptions/bronze.svg" href="https://discord.com/assets/e87725d75c6b138c5304.svg" alt="Bronze">  | Subscribe to Nitro for 1 month. |
+| Silver (3 Months)                  | <img src="/assets/subscriptions/silver.svg" href="https://discord.com/assets/4ce1c754ee26bd52e389.svg" alt="Silver">  | Subscribe to Nitro for 3 months. |
+| Gold (6 Months)                    | <img src="/assets/subscriptions/gold.svg" href="https://discord.com/assets/720abe4190804fc2065a.svg" alt="Gold">      | Subscribe to Nitro for 6 months. |
+| Platinum (12 Months)               | <img src="/assets/subscriptions/platinum.svg" href="https://discord.com/assets/db8451ff2b2e8bd5bc2d.svg" alt="Platinum"> | Subscribe to Nitro for 12 months (1 year). |
+| Diamond (24 Months)                | <img src="/assets/subscriptions/diamond.svg" href="https://discord.com/assets/9a0a4244e4eb0c0b56a6.svg" alt="Diamond"> | Subscribe to Nitro for 24 months (2 years). |
+| Emerald (36 Months)                | <img src="/assets/subscriptions/emerald.svg" href="https://discord.com/assets/6cb0fb24803a803393cb.svg" alt="Emerald"> | Subscribe to Nitro for 36 months (3 years). |
+| Ruby (60 Months)                   | <img src="/assets/subscriptions/ruby.svg" href="https://discord.com/assets/5842cd38f99cecb8a729.svg" alt="Ruby">     | Subscribe to Nitro for 60 months (5 years). |
+| Fire (72+ Months)                  | <img src="/assets/subscriptions/fire.svg" href="https://discord.com/assets/e116db39d3beeb4caeac.svg" alt="Fire">     | Subscribe to Nitro for 72+ months (6+ years). |
+
 
 ## Nitro Boost Tiers
 | Title | Badge | Earned by |
