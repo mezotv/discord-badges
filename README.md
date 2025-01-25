@@ -51,14 +51,14 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 | Title                | Badge                                                                                                                    | Earned by                                       |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| Bronze (1 Month)     | <img src="/assets/subscriptions/bronze.svg" href="https://discord.com/assets/e87725d75c6b138c5304.svg" alt="Bronze">     | Subscribing to Nitro for 1 month.               |
-| Silver (3 Months)    | <img src="/assets/subscriptions/silver.svg" href="https://discord.com/assets/4ce1c754ee26bd52e389.svg" alt="Silver">     | Subscribing to Nitro for 3 months.              |
-| Gold (6 Months)      | <img src="/assets/subscriptions/gold.svg" href="https://discord.com/assets/720abe4190804fc2065a.svg" alt="Gold">         | Subscribing to Nitro for 6 months.              |
-| Platinum (12 Months) | <img src="/assets/subscriptions/platinum.svg" href="https://discord.com/assets/db8451ff2b2e8bd5bc2d.svg" alt="Platinum"> | Subscribing to Nitro for 12 months (1 year).    |
-| Diamond (24 Months)  | <img src="/assets/subscriptions/diamond.svg" href="https://discord.com/assets/9a0a4244e4eb0c0b56a6.svg" alt="Diamond">   | Subscribing to Nitro for 24 months (2 years).   |
-| Emerald (36 Months)  | <img src="/assets/subscriptions/emerald.svg" href="https://discord.com/assets/6cb0fb24803a803393cb.svg" alt="Emerald">   | Subscribing to Nitro for 36 months (3 years).   |
-| Ruby (60 Months)     | <img src="/assets/subscriptions/ruby.svg" href="https://discord.com/assets/5842cd38f99cecb8a729.svg" alt="Ruby">         | Subscribing to Nitro for 60 months (5 years).   |
-| Fire (72+ Months)    | <img src="/assets/subscriptions/fire.svg" href="https://discord.com/assets/e116db39d3beeb4caeac.svg" alt="Fire">         | Subscribing to Nitro for 72+ months (6+ years). |
+| Bronze (1 Month)     | <img src="/assets/subscriptions/bronze.svg" href="https://discord.com/assets/0386191373eb17c272df.svg" alt="Bronze">     | Subscribing to Nitro for 1 month.               |
+| Silver (3 Months)    | <img src="/assets/subscriptions/silver.svg" href="https://discord.com/assets/9d4d362c62da3c985845.svg" alt="Silver">     | Subscribing to Nitro for 3 months.              |
+| Gold (6 Months)      | <img src="/assets/subscriptions/gold.svg" href="https://discord.com/assets/8725fe12ada9afa51c1a.svg" alt="Gold">         | Subscribing to Nitro for 6 months.              |
+| Platinum (12 Months) | <img src="/assets/subscriptions/platinum.svg" href="https://discord.com/assets/746689c803e06be87705.svg" alt="Platinum"> | Subscribing to Nitro for 12 months (1 year).    |
+| Diamond (24 Months)  | <img src="/assets/subscriptions/diamond.svg" href="https://discord.com/assets/f3521e2861ff44a0384d.svg" alt="Diamond">   | Subscribing to Nitro for 24 months (2 years).   |
+| Emerald (36 Months)  | <img src="/assets/subscriptions/emerald.svg" href="https://discord.com/assets/f2b9b02fb22cc6459922.svg" alt="Emerald">   | Subscribing to Nitro for 36 months (3 years).   |
+| Ruby (60 Months)     | <img src="/assets/subscriptions/ruby.svg" href="https://discord.com/assets/ecf86e18838013c9d95a.svg" alt="Ruby">         | Subscribing to Nitro for 60 months (5 years).   |
+| Opal (72+ Months)    | <img src="/assets/subscriptions/opal.svg" href="https://discord.com/assets/b4fc7a9c37ec2fae36e3.svg" alt="Fire">         | Subscribing to Nitro for 72+ months (6+ years). |
 
 ## Nitro Boost Tiers
 
