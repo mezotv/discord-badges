@@ -58,7 +58,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Diamond (24 Months)  | <img src="/assets/subscriptions/diamond.svg" href="https://discord.com/assets/f3521e2861ff44a0384d.svg" alt="Diamond">   | Subscribing to Nitro for 24 months (2 years).   |
 | Emerald (36 Months)  | <img src="/assets/subscriptions/emerald.svg" href="https://discord.com/assets/f2b9b02fb22cc6459922.svg" alt="Emerald">   | Subscribing to Nitro for 36 months (3 years).   |
 | Ruby (60 Months)     | <img src="/assets/subscriptions/ruby.svg" href="https://discord.com/assets/ecf86e18838013c9d95a.svg" alt="Ruby">         | Subscribing to Nitro for 60 months (5 years).   |
-| Opal (72+ Months)    | <img src="/assets/subscriptions/opal.svg" href="https://discord.com/assets/b4fc7a9c37ec2fae36e3.svg" alt="Fire">         | Subscribing to Nitro for 72+ months (6+ years). |
+| Opal (72+ Months)    | <img src="/assets/subscriptions/opal.svg" href="https://discord.com/assets/b4fc7a9c37ec2fae36e3.svg" alt="Opal">         | Subscribing to Nitro for 72+ months (6+ years). |
 
 ## Nitro Boost Tiers
 
