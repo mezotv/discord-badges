@@ -49,16 +49,16 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 ## Nitro Subscription Tiers
 
-| Title                | Badge                                                                                                                    | Earned by                                       |
+| Title                | Badge                                                                                                                    | Hover Image                                                                                                                    | Earned by                                       |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| Bronze (1 Month)     | <img src="/assets/subscriptions/bronze.svg" href="https://discord.com/assets/0386191373eb17c272df.svg" alt="Bronze">     | Subscribing to Nitro for 1 month.               |
-| Silver (3 Months)    | <img src="/assets/subscriptions/silver.svg" href="https://discord.com/assets/9d4d362c62da3c985845.svg" alt="Silver">     | Subscribing to Nitro for 3 months.              |
-| Gold (6 Months)      | <img src="/assets/subscriptions/gold.svg" href="https://discord.com/assets/8725fe12ada9afa51c1a.svg" alt="Gold">         | Subscribing to Nitro for 6 months.              |
-| Platinum (12 Months) | <img src="/assets/subscriptions/platinum.svg" href="https://discord.com/assets/746689c803e06be87705.svg" alt="Platinum"> | Subscribing to Nitro for 12 months (1 year).    |
-| Diamond (24 Months)  | <img src="/assets/subscriptions/diamond.svg" href="https://discord.com/assets/f3521e2861ff44a0384d.svg" alt="Diamond">   | Subscribing to Nitro for 24 months (2 years).   |
-| Emerald (36 Months)  | <img src="/assets/subscriptions/emerald.svg" href="https://discord.com/assets/f2b9b02fb22cc6459922.svg" alt="Emerald">   | Subscribing to Nitro for 36 months (3 years).   |
-| Ruby (60 Months)     | <img src="/assets/subscriptions/ruby.svg" href="https://discord.com/assets/ecf86e18838013c9d95a.svg" alt="Ruby">         | Subscribing to Nitro for 60 months (5 years).   |
-| Opal (72+ Months)    | <img src="/assets/subscriptions/opal.svg" href="https://discord.com/assets/b4fc7a9c37ec2fae36e3.svg" alt="Opal">         | Subscribing to Nitro for 72+ months (6+ years). |
+| Bronze (1 Month)     | <img src="/assets/subscriptions/badges/bronze.png" href="https://cdn.discordapp.com/badge-icons/4f33c4a9c64ce221936bd256c356f91f.png" alt="Bronze">     | Subscribing to Nitro for 1 month.               |
+| Silver (3 Months)    | <img src="/assets/subscriptions/badges/silver.png" href="https://cdn.discordapp.com/badge-icons/4514fab914bdbfb4ad2fa23df76121a6.png" alt="Silver">     | Subscribing to Nitro for 3 months.              |
+| Gold (6 Months)      | <img src="/assets/subscriptions/badges/gold.png" href="https://cdn.discordapp.com/badge-icons/2895086c18d5531d499862e41d1155a6.png" alt="Gold">         | Subscribing to Nitro for 6 months.              |
+| Platinum (12 Months) | <img src="/assets/subscriptions/badges/platinum.png" href="https://cdn.discordapp.com/badge-icons/0334688279c8359120922938dcb1d6f8.png" alt="Platinum"> | Subscribing to Nitro for 12 months (1 year).    |
+| Diamond (24 Months)  | <img src="/assets/subscriptions/badges/diamond.png" href="https://cdn.discordapp.com/badge-icons/0d61871f72bb9a33a7ae568c1fb4f20a.png" alt="Diamond">   | Subscribing to Nitro for 24 months (2 years).   |
+| Emerald (36 Months)  | <img src="/assets/subscriptions/badges/emerald.png" href="https://cdn.discordapp.com/badge-icons/11e2d339068b55d3a506cff34d3780f3.png" alt="Emerald">   | Subscribing to Nitro for 36 months (3 years).   |
+| Ruby (60 Months)     | <img src="/assets/subscriptions/badges/ruby.png" href="https://cdn.discordapp.com/badge-icons/cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4.png" alt="Ruby">         | Subscribing to Nitro for 60 months (5 years).   |
+| Opal (72+ Months)    | <img src="/assets/subscriptions/badges/opal.png" href="https://cdn.discordapp.com/badge-icons/5b154df19c53dce2af92c9b61e6be5e2.png" alt="Opal">         | Subscribing to Nitro for 72+ months (6+ years). |
 
 ## Nitro Boost Tiers
 
