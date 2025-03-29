@@ -6,20 +6,23 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 ## Table of Contents
 
-- [General Badges](#general-badges)
-- - [Bot Badges](#bot-badges)
-- [Nitro Subscription Tiers](#nitro-subscription-tiers)
-- [Nitro Boost Tiers](#nitro-boost-tiers)
+- [Discord Badges 🏆](#discord-badges-)
+  - [Table of Contents](#table-of-contents)
+  - [General Badges](#general-badges)
+  - [Bot Badges](#bot-badges)
+  - [Nitro Subscription Tiers](#nitro-subscription-tiers)
+  - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
-- - [Guild Badges](#guild-badges)
-- [Hall of Fame](#hall-of-fame)
-- [Badge Change Log](#badge-change-log)
+- [Guild Badges](#guild-badges)
+  - [Hall of Fame](#hall-of-fame)
+  - [Badge Change Log](#badge-change-log)
 
 ## General Badges
 
 | Title                                                      | Badge                                                                                                                  | Obtainable? | Earned by                                                                                                                                            | Flag           |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Orbs                                     | <img  src="/assets/orb.svg" href="https://cdn.discordapp.com/assets/content/615334270467aa3d5adc86cc67efee89f8380a87b945a96e89ec2eb37c27993d.png" >     | ❌          | Can be bought using the virtual "Orb" currency you get by completing quests, it is said to have multiple tiers                                                                                                  | (Unknown)      |
 | Completed a Quest                                          | <img  src="/assets/quest.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png" >     | ✅          | When completing a quest from the gift inventory tab                                                                                                  | (Unknown)      |
 | A clown, for a limited time                                | <img  src="/assets/special/discordlootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" >            | ❌          | Unlock all Lootbox rewards during the Discord April Fools event and select the avatar decoration as your main decoration                             | (Unknown)      |
 | Originaly known as                                         | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" >  | ❌          | When changing to the new username system, it is required that the person has a unique username tag, e.g., TAG#0000 (Can be hidden)                   | (Unknown)      |
