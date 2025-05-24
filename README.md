@@ -14,7 +14,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
   - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
-- [Guild Badges](#guild-badges)
+- [Tag Icons](#tag-icons)
   - [Hall of Fame](#hall-of-fame)
   - [Badge Change Log](#badge-change-log)
 
@@ -108,9 +108,9 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Ai                   | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" />          | ❌          | Only for the Clyde Ai bot.                                      |
 | OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" />                                             | ✅          | Given to the original poster of a forum post.                   |
 
-# Guild Badges
+# Tag Icons
 
-The following badges are included in the new clan tags. Guild owners can customize and assign them to their guild. There is a total of 21!
+These are all the Tag Icons that exist, Discord currently only lets you pick from a few of these. Server owners can customize and assign them to their server. There is a total of 21!
 
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
