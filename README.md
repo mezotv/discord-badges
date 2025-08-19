@@ -114,6 +114,8 @@ These are all the Tag Icons that exist, Discord currently only lets you pick fro
 
 | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| <img src="/assets/guilds/31.svg" /> | <img src="/assets/guilds/30.svg" /> | <img src="/assets/guilds/29.svg" /> | <img src="/assets/guilds/28.svg" /> | <img src="/assets/guilds/27.svg" /> |
+| <img src="/assets/guilds/26.svg" /> | <img src="/assets/guilds/25.svg" /> | <img src="/assets/guilds/24.svg" /> | <img src="/assets/guilds/23.svg" /> | <img src="/assets/guilds/22.svg" /> |
 | <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
 | <img src="/assets/guilds/16.svg" /> | <img src="/assets/guilds/15.svg" /> | <img src="/assets/guilds/14.svg" /> | <img src="/assets/guilds/13.svg" /> | <img src="/assets/guilds/12.svg" /> |
 | <img src="/assets/guilds/11.svg" /> | <img src="/assets/guilds/10.svg" /> | <img src="/assets/guilds/9.svg" />  | <img src="/assets/guilds/8.svg" />  | <img src="/assets/guilds/7.svg" />  |
