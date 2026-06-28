@@ -9,10 +9,10 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 - [Discord Badges 🏆](#discord-badges-)
   - [Table of Contents](#table-of-contents)
   - [General Badges](#general-badges)
+  - [Gifting Badges](#gifting-badges)
   - [Bot Badges](#bot-badges)
   - [Nitro Subscription Tiers](#nitro-subscription-tiers)
   - [Nitro Boost Tiers](#nitro-boost-tiers)
-  - [Gifting Badge](#gifting-badge)
 - [Server Badges](#server-badges)
 - [Special Flairs](#special-flairs)
 - [Tag Icons](#tag-icons)
@@ -43,6 +43,18 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Discord Bug Hunter (Tier 2)                                | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >     | ✅          | Reach the highest hunter level by going above and beyond at "Discord Testers".                                                                       | 16384 (2^14)   |
 
 \*\* The testers program is currently only available for a select group of people
+
+## Gifting Badges
+
+| Title                              | Badge                                                                                                                  | Earned by                                                                                                                |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Patron | <img  src="/assets/gifting/Patron.png"> | Send ( 1 ) gift to anyone from Shop or Wishlist in user profile |
+| Champion | <img  src="/assets/gifting/Champion.png"> | Send ( 2 ) gift to anyone from Shop or Wishlist in user profile |
+| Luminary | <img  src="/assets/gifting/Luminary.png"> | Send ( 3 ) gift to anyone from Shop or Wishlist in user profile |
+| Icon | <img src="/assets/gifting/Icon.png"> | Send ( 6 ) gift to anyone from Shop or Wishlist in user profile |
+| Hero | <img src="/assets/gifting/Hero.png"> | Send ( 10 ) gift to anyone from Shop or Wishlist in user profile |
+| Legend | <img src="/assets/gifting/Legend.png"> | Send ( 20 ) gift to anyone from Shop or Wishlist in user profile |
+
 
 ## Bot Badges
 
@@ -78,17 +90,6 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Server boosting (1 Year & 3 Months) | <img  src="/assets/boosts/discordboost7.svg" href="https://discord.com/assets/c7f26927db5e7806790f4e968038630a.svg" > | Boosting a discord server for 1 year and 3 months straight. |
 | Server boosting (1 Year & 6 Months) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Boosting a discord server for 1 year and 6 months straight. |
 | Server boosting (2 Years)           | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Boosting a discord server for 2 years straight.             |
-
-## Gifting Badge
-
-| Title                              | Badge                                                                                                                  | Earned by                                                                                                                |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Patron | <img  src="/assets/gifting/Patron.png"> | Send ( 1 ) gift to anyone from Shop or Wishlist in user profile |
-| Champion | <img  src="/assets/gifting/Champion.png"> | Send ( 2 ) gift to anyone from Shop or Wishlist in user profile |
-| Luminary | <img  src="/assets/gifting/Luminary.png"> | Send ( 3 ) gift to anyone from Shop or Wishlist in user profile |
-| Icon | <img src="/assets/gifting/Icon.png"> | Send ( 6 ) gift to anyone from Shop or Wishlist in user profile |
-| Hero | <img src="/assets/gifting/Hero.png"> | Send ( 10 ) gift to anyone from Shop or Wishlist in user profile |
-| Legend | <img src="/assets/gifting/Legend.png"> | Send ( 20 ) gift to anyone from Shop or Wishlist in user profile |
 
 # Server Badges
 
