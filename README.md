@@ -11,6 +11,10 @@ Discord badges are epic-looking achievements to make your profile look cool. The
   - [General Badges](#general-badges)  
   - [Bot Badges](#bot-badges)
   - [Gifting Badges](#gifting-badges)
+  - [Account Age Badges](#account-age-badges)
+  - [Streaming Badges](#streaming-badges)
+  - [Game Time Badges](#game-time-badges)
+  - [Game Variety Badges](#game-variety-badges)
   - [Nitro Subscription Tiers](#nitro-subscription-tiers)
   - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
@@ -62,6 +66,74 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Icon | <img src="/assets/gifting/icon.png" href="https://cdn.discordapp.com/badge-icons/64f2413c9b9803661322aaad25826b62.png"> | Send 6 gifts to anyone from the Shop or Wishlist in their user profile |
 | Hero | <img src="/assets/gifting/hero.png" href="https://cdn.discordapp.com/badge-icons/77d65b1f210014a11eb1582ee06ab684.png"> | Send 10 gifts to anyone from the Shop or Wishlist in their user profile |
 | Legend | <img src="/assets/gifting/legend.png" href="https://cdn.discordapp.com/badge-icons/7fe346cfc5da1340087d8759a9e7a395.png"> | Send 20 gifts to anyone from the Shop or Wishlist in their user profile |
+
+## Account Age Badges
+
+A leveled badge that reflects how long you have had your Discord account, maxing out at 10+ years. Currently in beta.
+
+| Title | Badge | Earned by |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Seed | <img src="/assets/account-age/seed.svg" href="https://cdn.discordapp.com/assets/content/dda73966211a0c16533f8fcd9f1f27c27a628ef562927270e79df9b9c5e6cb12.svg"> | Having a Discord account for 1 year |
+| Sprout | <img src="/assets/account-age/sprout.svg" href="https://cdn.discordapp.com/assets/content/74e1884f930b0d69986f92aeea77d3ff3d3d00c540f386b63e6ebb382d5e927d.svg"> | Having a Discord account for 2 years |
+| Bud | <img src="/assets/account-age/bud.svg" href="https://cdn.discordapp.com/assets/content/217dab12dcb72d4c95f2863e9dddd5c42003345a001684ea55a736172f32eea1.svg"> | Having a Discord account for 3 years |
+| Sapling | <img src="/assets/account-age/sapling.svg" href="https://cdn.discordapp.com/assets/content/26b89419a4f562ab31a1a72eac04833aa1026af937f1d53c088ec258df3db84b.svg"> | Having a Discord account for 4 years |
+| Blossom | <img src="/assets/account-age/blossom.svg" href="https://cdn.discordapp.com/assets/content/1db184b6d10a61a37dc30efdc74d587560fac5291c8bb329977e93bb5a312602.svg"> | Having a Discord account for 5 years |
+| Redwood | <img src="/assets/account-age/redwood.svg" href="https://cdn.discordapp.com/assets/content/6b0f2ed5be272942eeabea3a0289027d164c7b1ce6a76166d1c928a57db762c5.svg"> | Having a Discord account for 6 years |
+| Sequoia | <img src="/assets/account-age/sequoia.svg" href="https://cdn.discordapp.com/assets/content/c095e3e73591843a22dc979d1fcfe3d6cf6841d1f51387d208d19f8bed01deb7.svg"> | Having a Discord account for 7 years |
+| Bristlecone | <img src="/assets/account-age/bristlecone.svg" href="https://cdn.discordapp.com/assets/content/867feeff5acd481c80bae557c586718fb5390bbaaa1cbde55fae296a7884e799.svg"> | Having a Discord account for 8 years |
+| Stromatolite | <img src="/assets/account-age/stromatolite.svg" href="https://cdn.discordapp.com/assets/content/a6f4c487be2aa012f41f1fba40e664f914ede9251f4b967d890ab5c065a29fb7.svg"> | Having a Discord account for 9 years |
+| Primordial | <img src="/assets/account-age/primordial.svg" href="https://cdn.discordapp.com/assets/content/1d8caace0299b12bcc469c35ce927e838abd9c645a22fe7c556f4394e57fa79b.svg"> | Having a Discord account for 10+ years |
+
+## Streaming Badges
+
+A leveled badge earned by streaming to other users, leveling up with the total hours streamed. Currently in beta.
+
+| Title | Badge | Earned by |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Newcomer | <img src="/assets/streaming/newcomer.svg" href="https://cdn.discordapp.com/assets/content/c56b451e3bf04181182c2529e9bd3659e569ea80f582858090007f0752401b38.svg"> | Stream to other users for 1 hour |
+| Fledgling | <img src="/assets/streaming/fledgling.svg" href="https://cdn.discordapp.com/assets/content/2e25ba794f6f371ea0f52eb2d3c8fb2b04094a56f388515e13a9bd6d7949a018.svg"> | Stream to other users for 5 hours |
+| Breakout | <img src="/assets/streaming/breakout.svg" href="https://cdn.discordapp.com/assets/content/4e847b4dca20fbf1c56d3a47cac3c9204f02113c9d5a270ebebdf12909c75848.svg"> | Stream to other users for 20 hours |
+| Standout | <img src="/assets/streaming/standout.svg" href="https://cdn.discordapp.com/assets/content/27d0e6939f13dcf113243fc9eac642b15e9764ad891e06c5ed78d45a17678582.svg"> | Stream to other users for 75 hours |
+| Trendsetter | <img src="/assets/streaming/trendsetter.svg" href="https://cdn.discordapp.com/assets/content/af681483be2035f14b0f2bfe2e25a8944c97149172938888ca1008edbe037aad.svg"> | Stream to other users for 150 hours |
+| Headliner | <img src="/assets/streaming/headliner.svg" href="https://cdn.discordapp.com/assets/content/e69a0c86a476c9782ea1d3e7b5ba308eec3d9d6a3eae6ab8af3180f67d16b468.svg"> | Stream to other users for 300 hours |
+| Star | <img src="/assets/streaming/star.svg" href="https://cdn.discordapp.com/assets/content/06b6206db966635cf626651bdb94eacce5a23ab05dc7f600f7d31aa482b2058c.svg"> | Stream to other users for 500 hours |
+| Sensation | <img src="/assets/streaming/sensation.svg" href="https://cdn.discordapp.com/assets/content/1a3b9120ecd64c342083c37980b225d29ebf4544da6ab546c9268f87904c9dfe.svg"> | Stream to other users for 1,000 hours |
+| Visionary | <img src="/assets/streaming/visionary.svg" href="https://cdn.discordapp.com/assets/content/85f714b90ed3ceb1e00e1f2069bf3ebd564962fa940c92540061537a045e54ab.svg"> | Stream to other users for 2,000 hours |
+| Phenomenon | <img src="/assets/streaming/phenomenon.svg" href="https://cdn.discordapp.com/assets/content/61331d04b7a9542b38bfa59583360c0b9b93c6496a04f99c0ab37fa1d83ec58a.svg"> | Stream to other users for 5,000+ hours |
+
+## Game Time Badges
+
+A leveled badge earned by playing detectable PC games with Discord open, leveling up with the total hours played. Currently in beta.
+
+| Title | Badge | Earned by |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Casual | <img src="/assets/game-time/casual.svg" href="https://cdn.discordapp.com/assets/content/b75fcc4dd1c65dfd4169a203e21023453fd6fe853c9b5c1fd839781fda98e80d.svg"> | Play 1 hour of detectable PC games with Discord open |
+| Recreational | <img src="/assets/game-time/recreational.svg" href="https://cdn.discordapp.com/assets/content/f0f32cb2a0003475e443b76a7a2baf454356953ecb84195c7a08c3ce2fd95b70.svg"> | Play 5 hours of detectable PC games with Discord open |
+| Dedicated | <img src="/assets/game-time/dedicated.svg" href="https://cdn.discordapp.com/assets/content/e0c82f41bcad94a2a52713800fbef7687d0d2c6a6066b09d5e5876156d086e1a.svg"> | Play 20 hours of detectable PC games with Discord open |
+| Committed | <img src="/assets/game-time/committed.svg" href="https://cdn.discordapp.com/assets/content/16f2aeb7465c99efce4d67d9333e3ddcf7435d6e60d2f5f93dc0c07bc7c5a69b.svg"> | Play 75 hours of detectable PC games with Discord open |
+| Serious | <img src="/assets/game-time/serious.svg" href="https://cdn.discordapp.com/assets/content/ba26e83fa68189b41837184e38706f41c288dd29ffba266035d1a5ad9adbae22.svg"> | Play 150 hours of detectable PC games with Discord open |
+| Devoted | <img src="/assets/game-time/devoted.svg" href="https://cdn.discordapp.com/assets/content/851b194288f1913ece6c8d99976519e48210580d6f42d994f21e37801611ad54.svg"> | Play 300 hours of detectable PC games with Discord open |
+| Seasoned | <img src="/assets/game-time/seasoned.svg" href="https://cdn.discordapp.com/assets/content/8b10f5c0c30abbd521be5afc2e0dd4ec6da18bfbc689f06d93a51d06577cd84a.svg"> | Play 500 hours of detectable PC games with Discord open |
+| Ironclad | <img src="/assets/game-time/ironclad.svg" href="https://cdn.discordapp.com/assets/content/d705628490898f2cc22d669cf8b415bc03fed1ddaf98a2a8cbd97442a509293c.svg"> | Play 1,000 hours of detectable PC games with Discord open |
+| Unshakeable | <img src="/assets/game-time/unshakeable.svg" href="https://cdn.discordapp.com/assets/content/2bddcbc9f9959dab805eb7196c8112ce9dc68b09766c8193ab499b1870e44ac7.svg"> | Play 2,000 hours of detectable PC games with Discord open |
+| Eternal | <img src="/assets/game-time/eternal.svg" href="https://cdn.discordapp.com/assets/content/457ce4e657f0ced23197891cc3d75b7de29cafa065cdb8cbb81060ac0e63b07f.svg"> | Play 5,000+ hours of detectable PC games with Discord open |
+
+## Game Variety Badges
+
+A leveled badge earned by playing detectable PC games with Discord open, leveling up with the number of different games played. Currently in beta.
+
+| Title | Badge | Earned by |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Sampler | <img src="/assets/game-variety/sampler.svg" href="https://cdn.discordapp.com/assets/content/ed18d5976c01a4ea19f5a13af08f0547582405cbe48b098b0822e352b8e0a822.svg"> | Play 2 detectable PC games with Discord open |
+| Dabbler | <img src="/assets/game-variety/dabbler.svg" href="https://cdn.discordapp.com/assets/content/e450d5279537db06ee47a104af520b884adaa7ffc3ef2627157526bf1c58e840.svg"> | Play 5 detectable PC games with Discord open |
+| Enthusiast | <img src="/assets/game-variety/enthusiast.svg" href="https://cdn.discordapp.com/assets/content/158a9d91b8ca9e96d4afeee38cd640fc51483a8196edb9af0c26e44727acafae.svg"> | Play 10 detectable PC games with Discord open |
+| Ranger | <img src="/assets/game-variety/ranger.svg" href="https://cdn.discordapp.com/assets/content/9e491942070007f64011ae4fc478926b96433698c07621fc43bafdd5efe83912.svg"> | Play 15 detectable PC games with Discord open |
+| Explorer | <img src="/assets/game-variety/explorer.svg" href="https://cdn.discordapp.com/assets/content/e25fc55814262150e154ddb1a2b55fc5ed8ed5ba2ff1a22a33d4a41e651e370a.svg"> | Play 20 detectable PC games with Discord open |
+| Adventurer | <img src="/assets/game-variety/adventurer.svg" href="https://cdn.discordapp.com/assets/content/542d5277e0001ea738d5eb57b247dcab9ce6e0c29493d5892203f6258fde55b9.svg"> | Play 30 detectable PC games with Discord open |
+| Voyager | <img src="/assets/game-variety/voyager.svg" href="https://cdn.discordapp.com/assets/content/082e693cb9ce98b81af618978d449409efc6522b061bc0eac6e88a949fd888c6.svg"> | Play 40 detectable PC games with Discord open |
+| Maverick | <img src="/assets/game-variety/maverick.svg" href="https://cdn.discordapp.com/assets/content/6fc242e9e8259c471a5e4599cd09af5476e622a572ff235883173913bf506103.svg"> | Play 60 detectable PC games with Discord open |
+| Polymath | <img src="/assets/game-variety/polymath.svg" href="https://cdn.discordapp.com/assets/content/be9a4d119b8e0d7fc1df7e5a12081332637cb9c978a90377cb9c930500b2fbe6.svg"> | Play 80 detectable PC games with Discord open |
+| Universalist | <img src="/assets/game-variety/universalist.svg" href="https://cdn.discordapp.com/assets/content/fcc34d343451505c642f3397cec2669a2de3a4a410fb968f794b3a1a0dcd1728.svg"> | Play 100+ detectable PC games with Discord open |
 
 ## Nitro Subscription Tiers  
 
