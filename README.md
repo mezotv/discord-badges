@@ -221,10 +221,12 @@ These tags came originally on the Guild Tags Server experiment, they were remove
 
 ## Hall of Fame
 
-A collection of unique events that happened on Discord.
+A collection of unique events that happened on Discord. HypeBot, DBug, and Bug-Bot were suggested by [AuizaDev](https://github.com/GreenCatYouTubeTeam) in [#64](https://github.com/mezotv/discord-badges/issues/64).
 
 | Explanation | Image  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **HypeBot** is used in the HypeSquad Events server to grant roles to members. It is the only known APP to have the **HypeSquad Events** badge. | <img  src="/assets/fame/hypebot-events.png"> |
+| **DBug** and **Bug-Bot** are used in Discord Testers to take the quiz, assign roles, submit bug reports, and interact with reports. They are the only known APPs with the **Bug Hunter** badge. | <img  src="/assets/fame/dbug-bug-hunter.png"> <img  src="/assets/fame/bug-bot-bug-hunter.png"> |
 | The **Spongetext** APP (used to demonstrate Discord's new [User-Installable App's](https://discord.com/developers/docs/tutorials/developing-a-user-installable-app) feature) has been given the **Discord Staff** badge. New API features are often gated to staff-only at first, so some staff apply the Discord Staff badge to their test bots to access them. Spongetext in particular was owned by the team that worked on user apps. | <img  src="/assets/fame/spongetext-staff.png">                                   |
 | Due to the Moderator Alumni server being closed down Sapphire and GearBot were one of the only APPS to ever obtain the **Moderator Programs Alumni** badge. | <img  src="/assets/fame/sapphire-mod.png"> <img  src="/assets/fame/gear-mod.png"> |
 | Some time ago, long before Clyde, Discord created a chatbot similar to what Clyde has become. | <img  src="/assets/fame/wumpus.png"> |
