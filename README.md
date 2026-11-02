@@ -1,5 +1,9 @@
 # Discord Badges 🏆
 
+[![Validation CI](https://github.com/mezotv/discord-badges/actions/workflows/validate.yml/badge.svg)](https://github.com/mezotv/discord-badges/actions/workflows/validate.yml)
+[![JSON Dataset](https://img.shields.io/badge/dataset-badges.json-5865F2?logo=discord&logoColor=white)](data/badges.json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A collection featuring every badge on Discord!
 
 Discord badges are epic-looking achievements to make your profile look cool. They are given out by Discord for various reasons, such as being a nitro booster, being a Discord partner, or being a Discord staff member. This collection features every badge on Discord for both staff/bot accounts and user accounts. This was made by **dominikdev**
@@ -8,6 +12,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 - [Discord Badges 🏆](#discord-badges-)
   - [Table of Contents](#table-of-contents)
+  - [Developer API & Raw Data](#developer-api--raw-data)
   - [General Badges](#general-badges)  
   - [Bot Badges](#bot-badges)
   - [Gifting Badges](#gifting-badges)
@@ -23,6 +28,41 @@ Discord badges are epic-looking achievements to make your profile look cool. The
   - [Hall of Fame](#hall-of-fame)
   - [Badge Change Log](#badge-change-log)
 
+## Developer API & Raw Data
+
+Looking to use Discord badge data in your Discord bot, dashboard, or application? All badges, local asset paths, and Discord API bitwise public flags are available in a structured, validated JSON format:
+
+* **Local JSON File:** [`data/badges.json`](data/badges.json)
+* **Direct Raw URL:**
+  ```text
+  https://raw.githubusercontent.com/mezotv/discord-badges/main/data/badges.json
+  ```
+
+### Discord Public Flags Calculator
+
+You can decode any Discord user's bitwise `public_flags` integer using the built-in utility:
+
+```bash
+npm run flags 4194368
+```
+
+Output:
+```text
+Decoding flags: 4194368
+Found 2 matching badge(s):
+
+- [HOUSE_BRAVERY] HypeSquad Bravery (Flag value: 64)
+- [ACTIVE_DEVELOPER] Active Developer (Flag value: 4194304)
+```
+
+You can also import it in your Node.js projects:
+```javascript
+const { calculateBadges } = require('./scripts/calculate-flags');
+
+const badges = calculateBadges(user.public_flags);
+console.log(badges.map(b => b.name));
+```
+
 ## General Badges
 
 | Title                                                      | Badge                                                                                                                  | Obtainable? | Earned by                                                                                                                                            | Flag           |
@@ -31,17 +71,17 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Orbs Apprentice                               | <img  src="/assets/orb.svg" href="https://cdn.discordapp.com/assets/content/615334270467aa3d5adc86cc67efee89f8380a87b945a96e89ec2eb37c27993d.png" >     | ✅          | Once you complete its specific quests, you can purchase from its "Orbs Exclusives" shop                                                                                                   | (Unknown)      |
 | Completed a Quest                                          | <img  src="/assets/quest.png" href="https://cdn.discordapp.com/badge-icons/7d9ae358c8c5e118768335dbe68b4fb8.png" >     | ✅          | When completing a quest from the gift inventory tab                                                                                                  | (Unknown)      |
 | A clown, for a limited time                                | <img  src="/assets/special/discord-lootbox.svg" href="https://discord.com/assets/971cfe4aa5c0582000ea.svg" >            | ❌          | Unlock all Lootbox rewards during the Discord April Fools event and select the avatar decoration as your main decoration                             | (Unknown)      |
-| Originaly known as                                         | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" >  | ❌          | When changing to the new username system, it is required that the person has a unique username tag, e.g., TAG#0000 (Can be hidden)                   | (Unknown)      |
+| Originally known as                                         | <img  src="/assets/username.png" href="https://cdn.discordapp.com/badge-icons/6de6d34650760ba5551a79732e98ed60.png" >  | ❌          | When changing to the new username system, it is required that the person has a unique username tag, e.g., TAG#0000 (Can be hidden)                   | (Unknown)      |
 | HypeSquad Events                                           | <img  src="/assets/hype-squad-events.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" >       | ❌          | User had to attend/represent Discord on events (Closed and wont ever return)                                                                         | 4 (2^2)        |
 | HypeSquad Brilliance                                       | <img  src="/assets/hype-squad-brilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" >   | ❌ (✅)          | Taking the HypeSquad [Test](https://discord.com/hypesquad) (Removed). Can still be obtained with a POST request via the API (unofficial method).                                                                                          | 128 (2^7)      |
-| HypeSquad Bravery                                          | <img  src="/assets/hype-squad-bravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" >      | ❌ (✅)         | Taking the HypeSquad [Test](https://discord.com/hypesquad) (Removed). Can still be obtained with a POST request via the API (unofficial mothod).                                                                                         | 64 (2^6)       |
+| HypeSquad Bravery                                          | <img  src="/assets/hype-squad-bravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" >      | ❌ (✅)         | Taking the HypeSquad [Test](https://discord.com/hypesquad) (Removed). Can still be obtained with a POST request via the API (unofficial method).                                                                                         | 64 (2^6)       |
 | HypeSquad Balance                                          | <img  src="/assets/hype-squad-balance.svg" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" >      | ❌ (✅)         | Taking the HypeSquad [Test](https://discord.com/hypesquad) (Removed). Can still be obtained with a POST request via the API (unofficial method).                                                                                         | 256 (2^8)      |
 | Discord Staff                                              | <img  src="/assets/discord-staff.svg" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" >          | ✅          | Being a [employee](https://discord.com/careers) member at Discord. Can be hidden by the staff.                                                       | 1 (2^0)        |
 | Partnered Server Owner                                     | <img  src="/assets/discord-partner.svg" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" >        | ❌ (✅)          | Owning a server that meets discords partner requirements before October 5th, 2023, and being accepted for a partnership (can be obtained if the owner of a partnered server transfer his server to you).                            | 2 (2^1)        |
 | Moderator Programs Alumni                                  | <img  src="/assets/discord-mod.svg" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" >            | ❌          | This badge can no longer be obtained after December 1st 2022.                                                                                       | 262144 (2^18)  |
 | Early Verified Bot Developer                               | <img  src="/assets/discord-bot-dev.svg" href="https://discord.com/assets/4441e07fe0f46b3cb41b79366236fca6.svg" >         | ❌          | Owning a verified Discord bot before August 19, 2020.                                                                                                | 131072 (2^17)  |
 | Active Developer                                           | <img  src="/assets/active-developer.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" >       | ❌          | Own at least 1 active application (app). For your app to be considered active, it will need to have executed any Global Command in the last 30 days. | 4194304 (2^22) |
-| Discord Nitro ([MultipleTiers](#nitro-subscription-tiers)) | <img  src="/assets/discord-nitro.svg" href="https://cdn.discordapp.com/assets/content/f61ddf640d11d9bdfaf9de265eb862edf28986b659e545f293b54adf229433af.svg" >          | ✅          | Having a valid Discord Nitro, Nitro Basic, or Nitro Classic subscription.                                                                            | (Unknown)      |
+| Discord Nitro ([Multiple Tiers](#nitro-subscription-tiers)) | <img  src="/assets/discord-nitro.svg" href="https://cdn.discordapp.com/assets/content/f61ddf640d11d9bdfaf9de265eb862edf28986b659e545f293b54adf229433af.svg" >          | ✅          | Having a valid Discord Nitro, Nitro Basic, or Nitro Classic subscription.                                                                            | (Unknown)      |
 | Early Supporter                                            | <img  src="/assets/discord-early-supporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌          | If you had a successful transaction on discord before Wednesday, October 10th, 2018, 7:20:00 PM PDT.                                                 | 512 (2^9)      |
 | Discord Bug Hunter (Tier 1)                                | <img  src="/assets/discord-bug-hunter-green.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" >     | ✅          | Is awarded to the most hard-working of those in the Bug Hunter community at "Discord Testers".                                                       | 8 (2^3)        |
 | Discord Bug Hunter (Tier 2)                                | <img  src="/assets/discord-bug-hunter-gold.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >     | ✅          | Reach the highest hunter level by going above and beyond at "Discord Testers".                                                                       | 16384 (2^14)   |
@@ -169,15 +209,15 @@ A leveled badge earned by playing detectable PC games with Discord open, levelin
 | Internal Employee (Staff)  | <img width="52.7px" height= "60px" src="/assets/server/staff.svg" />               |                                                                                  | ❌ (Not for normal users) | Given to servers with the _INTERNAL_EMPLOYEE_ONLY_ feature flag                                                     |
 | Partnered Server           | <img width="52.7px" height= "60px" src="/assets/server/partnered.svg" />           |                                                                                  | ❌                        | Given to partnered Discord servers                                                                                  |
 | Verified Server            | <img width="52.7px" height= "60px" src="/assets/server/verified.svg" />            |                                                                                  | ✅                        | Given to verified Discord servers (Currently for game creators)                                                                |
-| Public Server (Boosted)    | <img width="52.7px" height= "60px" src="/assets/server/discoverable-boosted.svg" /> |                                                                                  | ✅                        | Given to servers that are part of discovery and have atleast 1 boost.                                               |
+| Public Server (Boosted)    | <img width="52.7px" height= "60px" src="/assets/server/discoverable-boosted.svg" /> |                                                                                  | ✅                        | Given to servers that are part of discovery and have at least 1 boost.                                               |
 | Public Server              | <img width="52.7px" height= "60px" src="/assets/server/discoverable-dark.svg" />    | <img width="52.7px" height= "60px" src="/assets/server/discoverable-light.svg" /> | ✅                        | Given to servers that are part of discovery.                                                                        |
-| Community Server (boosted) | <img width="52.7px" height= "60px" src="/assets/server/community-boosted.svg" />    |                                                                                  | ✅                        | Given to servers that have community features enabled and have atleast 1 boost.                                     |
+| Community Server (boosted) | <img width="52.7px" height= "60px" src="/assets/server/community-boosted.svg" />    |                                                                                  | ✅                        | Given to servers that have community features enabled and have at least 1 boost.                                     |
 | Community Server           | <img width="52.7px" height= "60px" src="/assets/server/community-dark.svg" />       | <img width="52.7px" height= "60px" src="/assets/server/community-light.svg" />    | ✅                        | Given to servers that have community features enabled.                                                              |
 | Boosted server Level 0     | <img width="52.7px" height= "60px" src="/assets/server/boost-0.svg" />              |                                                                                  | ✅                        | Given to servers that have at least 1 boost but no levels.                                                                            |
 | Boosted server Level 1     | <img width="52.7px" height= "60px" src="/assets/server/boost-1.svg" />              |                                                                                  | ✅                        | Given to servers that have 1 boost level.                                                                           |
 | Boosted server Level 2     | <img width="52.7px" height= "60px" src="/assets/server/boost-2-dark.svg" />          | <img width="52.7px" height= "60px" src="/assets/server/boost-2-light.svg" />       | ✅                        | Given to servers that have 2 boost level.                                                                           |
 | Boosted server Level 3     | <img width="52.7px" height= "60px" src="/assets/server/boost-3-dark.svg" />          | <img width="52.7px" height= "60px" src="/assets/server/boost-3-light.svg" />       | ✅                        | Given to servers that have 3 boost level.                                                                           |
-| Server Owner               | <img width="60" height= "52.7px" src="/assets/server/crown.svg" />                 |                                                                                  | ✅                        | Giving to the owner upon creating the server. Can be removed by giving admin to a hoisted role.                     |
+| Server Owner               | <img width="60" height= "52.7px" src="/assets/server/crown.svg" />                 |                                                                                  | ✅                        | Given to the owner upon creating the server. Can be removed by giving admin to a hoisted role.                     |
 | I'm new here, say hi!      | <img width="52.7px" height= "60px" src="/assets/server/new-here.svg" />             |                                                                                  | ✅                        | Given to new members on a community enabled server. The badge stays next to your username for a week after joining. |
 
 # Special Flairs

@@ -1,0 +1,19 @@
+{
+  "name": "discord-badges",
+  "version": "1.0.0",
+  "description": "A comprehensive collection and dataset of Discord profile badges, assets, and API flags",
+  "main": "scripts/calculate-flags.js",
+  "scripts": {
+    "test": "node scripts/validate.js",
+    "flags": "node scripts/calculate-flags.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-badges",
+    "discord-api",
+    "discord-flags",
+    "badges"
+  ],
+  "author": "Dominik K.",
+  "license": "MIT"
+}
